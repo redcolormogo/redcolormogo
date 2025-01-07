@@ -1,4 +1,4 @@
-# Bongo Cat Buddy
+# tf2webGL
 
 Bongo cat buddy creates a bongo cat to type along with you 🐱
 
