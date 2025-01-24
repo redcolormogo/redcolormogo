@@ -1,4 +1,4 @@
-# planningse
+# chromium_ui
 
 Bongo cat buddy creates a bongo cat to type along with you 🐱
 
